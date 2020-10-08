@@ -20,6 +20,26 @@ p {
  font-size: 2rem;
  margin-bottom: 0.75rem;
  line-height: 1.1;
+ 
+}
+
+.m-heading1{
+  width: 329px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+}
+
+.m-heading2{
+  line-height: 200%;
+ font-size: 0.75rem;
+ margin-bottom: 0.75rem;
+ line-height: 1.1;
+ text-align: center;
+ 
+}
+
+div.container {
+  padding: 10px;
 }
 .text-center{
     text-align: center;
@@ -90,7 +110,7 @@ p {
     color: #fff;
 }
 .bg-primary{
-    background: #52c0cb;
+    background: #333;
     color: #fff;
 }
 .list{
